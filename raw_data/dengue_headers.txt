@@ -1,0 +1,5 @@
+>NC_001478.1 Digitaria streak virus, complete genome
+>NC_001479.1 Encephalomyocarditis virus, complete genome
+>NC_001480.1 Eggplant mosaic virus, complete genome
+>NC_001481.2 Feline calicivirus, complete genome
+>NC_001477.1 Dengue virus 1, complete genome
